@@ -2,5 +2,8 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": true,
         "source.fixAll.eslint": true
-    }
+    },
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    },
 }
